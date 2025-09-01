@@ -14,12 +14,17 @@ This application offers four primary views:
 ⤷  **Virtual Cart** — Users can build and submit a shopping cart.  
 ⤷  **Transactional Order Submission** — Orders are saved across multiple SQL tables using transaction logic to ensure consistency.  
 
-#### 📍 Technologies ──
+#### 📍 Technologies & Stack ──
 
-- ASP.NET Core Razor Pages (MVC Pattern)  
-- C#, JavaScript, AJAX  
-- SIRIO UI Library  
-- SQL Server (Transactional operations)  
+| Layer            | Technology / Tool                         |
+|------------------|-------------------------------------------|
+| **Framework**     | ASP.NET Core Razor Pages (MVC Pattern)   |
+| **Languages**     | C#, JavaScript                           |
+| **Interactivity** | AJAX                                     |
+| **UI Library**    | SIRIO UI Library                         |
+| **Database**      | SQL Server (Transactional operations)    |
+| **IDE**           | Visual Studio 2022                       |
+
 
 #### 📍Roadmap (Future Plans)  ──
 
